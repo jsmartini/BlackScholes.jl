@@ -1,3 +1,5 @@
 # BlackScholes.jl
-Algorithms written in julia for Finance
+Options Pricing
+
+
 Author: Jonathan Martini
