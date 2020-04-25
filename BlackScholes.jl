@@ -29,4 +29,4 @@ function BlackScholesDividend(S, T, K, r, σ, q)
     return call(), put()
 end
 
-BlackScholes(50,1,100,0.05,0.25)
+
